@@ -1,0 +1,59 @@
+* { 
+box-sizing: border-box;	
+ }
+
+body { 
+	background-color: grey;
+	color: green;
+ }
+h1 {
+    color: darkgreen;
+    text-align: center;
+}
+h2 {text-align: center;
+    text-decoration: underline;
+}
+h3 { text-decoration: underline; margin: 20px; 
+
+ }
+h4 { text-transform: uppercase;
+ 	 font-family: 'Indie Flower', cursive; clear: both; margin-left: 35%;
+  }
+li { font-family: 'Indie Flower', cursive;
+	border-style: dotted; border-color: navy; border-radius: 13px;
+	width: 15%; text-align: center;
+	list-style: none;
+	float: left;
+	 }
+ p { font-family: 'Indie Flower', cursive; clear: left;
+  }
+
+   #Welcome { 
+	color: navy;  
+
+   }
+
+   .animal { 
+   color: orange; 
+    }
+
+    .animal::first-letter { font-size: 24px;color: blue;
+     }
+
+   .bird { color: black;
+   font-weight: bold;
+}
+   .mammal {
+   font-weight: bold; 
+   }
+
+
+   img { float: right;  height: 265px;
+    width: 30%;margin-right: 39px;
+
+    }
+
+    a{ display: block; margin-left: 30%;
+     }
+
+
